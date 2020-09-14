@@ -1,9 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "jsofdklmsn-server", "author": "pars" }
+    { "id": 1, "title": "mahdi", "author": "parsa" }
   ],
   "comments": [
-    { "id": 1, "body": "pars", "postId": 1 }
+    { "id": 1, "body": "parsa", "postId": 1 }
   ],
-  "profile": { "name": "pars" }
+  "profile": { "name": "rjb" }
 }
