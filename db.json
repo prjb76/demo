@@ -1,6 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "mahdi", "author": "parsa" }
+  "1": [
+    { "FullName": "Parsa", "finger": "2", "RFID": 3432333428 }
   ],
   "comments": [
     { "id": 1, "body": "parsa", "postId": 1 }
