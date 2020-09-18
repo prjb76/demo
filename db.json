@@ -5,5 +5,5 @@
   "comments": [
     { "id": 1, "body": "parsa", "postId": 1 }
   ],
-  "get": { "name": "rjb" }
+  "profile": { "name": "rjb" }
 }
