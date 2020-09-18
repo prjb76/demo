@@ -1,6 +1,9 @@
 {
-  "FullName": "Parsa",
-  "finger": "2",
-  "RFID": 3432333428
-
+  "POST":
+    { "FullName": "Parsa", "finger": "2", "RFID": 3432333428 }
+  ],
+  "comments": [
+    { "id": 1, "body": "parsa", "postId": 1 }
+  ],
+  "get": { "name": "rjb" }
 }
